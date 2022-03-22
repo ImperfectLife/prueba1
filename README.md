@@ -1,5 +1,5 @@
 # prueba1
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,6 +23,12 @@
             {
                 font-family: Arial, Helvetica, sans-serif;
             }
+        h3{
+            text-align: center;
+        }
+        h1,h3{
+            font-style: italic;
+        }
 
     </style>
 </head>
