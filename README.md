@@ -29,6 +29,11 @@
         h1,h3{
             font-style: italic;
         }
+        *
+        {
+            font-size: 50px;
+        }
+
 
     </style>
 </head>
